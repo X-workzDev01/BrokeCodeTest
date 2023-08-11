@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form action="/save">
+<form action="save" method="post">
 <input type="text" name="Name" placeholder="name">
 <input type="text" name="PhoneNumber" placeholder="Phone Number">
 <input type="text" name="Age" placeholder="Age">
